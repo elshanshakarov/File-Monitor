@@ -1,0 +1,15 @@
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\bin\Debug\net8.0\FileMonitor.Loaders.Txt.deps.json
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\bin\Debug\net8.0\FileMonitor.Loaders.Txt.dll
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\bin\Debug\net8.0\FileMonitor.Loaders.Txt.pdb
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\bin\Debug\net8.0\FileMonitor.Core.dll
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\bin\Debug\net8.0\FileMonitor.Core.pdb
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.csproj.AssemblyReference.cache
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.AssemblyInfoInputs.cache
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.AssemblyInfo.cs
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.csproj.CoreCompileInputs.cache
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMoni.DAF125F7.Up2Date
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.dll
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\refint\FileMonitor.Loaders.Txt.dll
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\FileMonitor.Loaders.Txt.pdb
+D:\practice\FileMonitor\FileMonitor.Loaders.Txt\obj\Debug\net8.0\ref\FileMonitor.Loaders.Txt.dll

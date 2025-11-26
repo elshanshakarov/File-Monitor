@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileMonitor.UI/1.0.0": {
+        "dependencies": {
+          "FileMonitor.Core": "1.0.0"
+        },
+        "runtime": {
+          "FileMonitor.UI.dll": {}
+        }
+      },
+      "FileMonitor.Core/1.0.0": {
+        "runtime": {
+          "FileMonitor.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileMonitor.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileMonitor.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

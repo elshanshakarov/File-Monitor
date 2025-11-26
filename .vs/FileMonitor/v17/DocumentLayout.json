@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\FileMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|d:\\practice\\filemonitor\\filemonitor.core\\services\\directorywatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|solutionrelative:filemonitor.core\\services\\directorywatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|d:\\practice\\filemonitor\\filemonitor.core\\services\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|solutionrelative:filemonitor.core\\services\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E951115-A402-440D-B535-E1DB02FEB418}|FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj|d:\\practice\\filemonitor\\filemonitor.loaders.xml\\filemonitor.loaders.xml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E951115-A402-440D-B535-E1DB02FEB418}|FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj|solutionrelative:filemonitor.loaders.xml\\filemonitor.loaders.xml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B08661-096D-44F4-929F-20FD6F37C758}|FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj|d:\\practice\\filemonitor\\filemonitor.loaders.csv\\csvfileloader .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B08661-096D-44F4-929F-20FD6F37C758}|FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj|solutionrelative:filemonitor.loaders.csv\\csvfileloader .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B08661-096D-44F4-929F-20FD6F37C758}|FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj|d:\\practice\\filemonitor\\filemonitor.loaders.csv\\filemonitor.loaders.csv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57B08661-096D-44F4-929F-20FD6F37C758}|FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj|solutionrelative:filemonitor.loaders.csv\\filemonitor.loaders.csv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|d:\\practice\\filemonitor\\filemonitor.core\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|solutionrelative:filemonitor.core\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\filemonitor.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\filemonitor.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|d:\\practice\\filemonitor\\filemonitor.ui\\filemonitor.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC23EE54-915D-4F0B-A314-64D8677B96AD}|FileMonitor.UI\\FileMonitor.UI.csproj|solutionrelative:filemonitor.ui\\filemonitor.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E90F21-C0E3-4805-BC49-ACDB7849FFB7}|FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj|d:\\practice\\filemonitor\\filemonitor.loaders.txt\\filemonitor.loaders.txt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93E90F21-C0E3-4805-BC49-ACDB7849FFB7}|FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj|solutionrelative:filemonitor.loaders.txt\\filemonitor.loaders.txt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|d:\\practice\\filemonitor\\filemonitor.core\\models\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6091E818-0A0D-47A0-9A0D-57AC47EB865C}|FileMonitor.Core\\FileMonitor.Core.csproj|solutionrelative:filemonitor.core\\models\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E951115-A402-440D-B535-E1DB02FEB418}|FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj|d:\\practice\\filemonitor\\filemonitor.loaders.xml\\xmlfileloader .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E951115-A402-440D-B535-E1DB02FEB418}|FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj|solutionrelative:filemonitor.loaders.xml\\xmlfileloader .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E90F21-C0E3-4805-BC49-ACDB7849FFB7}|FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj|d:\\practice\\filemonitor\\filemonitor.loaders.txt\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E90F21-C0E3-4805-BC49-ACDB7849FFB7}|FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj|solutionrelative:filemonitor.loaders.txt\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\MainForm.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.cs",
+              "RelativeToolTip": "FileMonitor.UI\\MainForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAD4vyMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:50:21.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\Program.cs",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\Program.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\Program.cs",
+              "RelativeToolTip": "FileMonitor.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:10:21.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\App.config",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\App.config",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\App.config",
+              "RelativeToolTip": "FileMonitor.UI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-22T16:55:28.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileMonitor.Loaders.Xml",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj",
+              "RelativeDocumentMoniker": "FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj",
+              "RelativeToolTip": "FileMonitor.Loaders.Xml\\FileMonitor.Loaders.Xml.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T19:12:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryWatcher.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Services\\DirectoryWatcher.cs",
+              "RelativeDocumentMoniker": "FileMonitor.Core\\Services\\DirectoryWatcher.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Services\\DirectoryWatcher.cs",
+              "RelativeToolTip": "FileMonitor.Core\\Services\\DirectoryWatcher.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:49:17.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PluginLoader.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Services\\PluginLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor.Core\\Services\\PluginLoader.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Services\\PluginLoader.cs",
+              "RelativeToolTip": "FileMonitor.Core\\Services\\PluginLoader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:48:30.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.resx",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\MainForm.resx",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.resx",
+              "RelativeToolTip": "FileMonitor.UI\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-22T19:04:41.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\MainForm.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "FileMonitor.UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:32:51.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\MainForm.Designer.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "FileMonitor.UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowEQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:58:16.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileMonitor.Loaders.Csv",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj",
+              "RelativeDocumentMoniker": "FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj",
+              "RelativeToolTip": "FileMonitor.Loaders.Csv\\FileMonitor.Loaders.Csv.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T17:46:11.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CsvFileLoader .cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Csv\\CsvFileLoader .cs",
+              "RelativeDocumentMoniker": "FileMonitor.Loaders.Csv\\CsvFileLoader .cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Csv\\CsvFileLoader .cs",
+              "RelativeToolTip": "FileMonitor.Loaders.Csv\\CsvFileLoader .cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:09:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TxtFileLoader.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Txt\\TxtFileLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor.Loaders.Txt\\TxtFileLoader.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Txt\\TxtFileLoader.cs",
+              "RelativeToolTip": "FileMonitor.Loaders.Txt\\TxtFileLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:05:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFileLoader.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Interfaces\\IFileLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor.Core\\Interfaces\\IFileLoader.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Interfaces\\IFileLoader.cs",
+              "RelativeToolTip": "FileMonitor.Core\\Interfaces\\IFileLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:47:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileMonitor.UI",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\FileMonitor.UI.csproj",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\FileMonitor.UI.csproj",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\FileMonitor.UI.csproj",
+              "RelativeToolTip": "FileMonitor.UI\\FileMonitor.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T17:28:57.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XmlFileLoader .cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Xml\\XmlFileLoader .cs",
+              "RelativeDocumentMoniker": "FileMonitor.Loaders.Xml\\XmlFileLoader .cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Xml\\XmlFileLoader .cs",
+              "RelativeToolTip": "FileMonitor.Loaders.Xml\\XmlFileLoader .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:00:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileMonitor.Loaders.Txt",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj",
+              "RelativeDocumentMoniker": "FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj",
+              "RelativeToolTip": "FileMonitor.Loaders.Txt\\FileMonitor.Loaders.Txt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T17:27:04.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileMonitor.UI",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.UI\\FileMonitor.UI.csproj",
+              "RelativeDocumentMoniker": "FileMonitor.UI\\FileMonitor.UI.csproj",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.UI\\FileMonitor.UI.csproj",
+              "RelativeToolTip": "FileMonitor.UI\\FileMonitor.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T16:49:49.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataItem.cs",
+              "DocumentMoniker": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Models\\DataItem.cs",
+              "RelativeDocumentMoniker": "FileMonitor.Core\\Models\\DataItem.cs",
+              "ToolTip": "D:\\practice\\FileMonitor\\FileMonitor.Core\\Models\\DataItem.cs",
+              "RelativeToolTip": "FileMonitor.Core\\Models\\DataItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:45:25.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
