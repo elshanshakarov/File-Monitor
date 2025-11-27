@@ -27,6 +27,10 @@ namespace FileMonitor.Core.Services
 
         public async Task StartAsync()
         {
+            // İzləniləcək folderin path-i App.config faylında qeyd edilib
+            if (!Directory.Exists(_path))
+                Directory.CreateDirectory(_path);
+
             while (true)
             {
                 foreach (var file in Directory.GetFiles(_path))
